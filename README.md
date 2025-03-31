@@ -1,2 +1,0 @@
-# minGrav
-# Min Grav 🕯️
